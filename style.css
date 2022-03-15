@@ -1,0 +1,36 @@
+.ara{
+    background-color: rgb(238, 238, 238);
+    margin: 0px 5% 0px 5%;
+}
+.row{
+    display: inline-block;
+    height: 80px;
+    text-align: center;  
+}
+#firstrw{
+    width:30% ;
+    border-right: 1px solid white;
+    background-color: rgb(126, 229, 218); 
+}
+#secrw{
+    width:20% ;
+    border-right: 1px solid white;
+    background-color:rgb(112, 204, 194);
+    font-size: small;
+}
+#thirdrw{
+    width:40% ;
+    border-right: 1px solid white;
+    background-color: rgb(98, 179, 170);
+
+}
+div{
+    display: flex;            
+    justify-content: center; 
+    margin-top: 2px;
+    vertical-align: middle;
+    
+}
+p{
+    font-size: small;
+}
